@@ -34,6 +34,7 @@ Member contributions:
 
 Worked on together:
 -The basic structure of server and client was made together in seperate files and compiled together into one file.
+-Testing and debugging was done together and consisted of 90% of the total work done on the project.
 
 Chris:
 -menu() - A basic menu was created with if and else if statements.
